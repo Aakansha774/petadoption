@@ -1,0 +1,14 @@
+/* src/cards/CardComponent.css */
+.card {
+    border-radius: 10px;
+  }
+  
+  .card img {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
